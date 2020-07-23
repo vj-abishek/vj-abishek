@@ -8,4 +8,3 @@
 - 💬 Ask me about React and Javascript
 - 📫 How to reach me: [facebook](https://www.facebook.com/vj.abishek)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I don't like pronunciations  
