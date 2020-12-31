@@ -6,3 +6,6 @@
 - 💬 Ask me about React and Javascript
 - 📫 How to reach me: [facebook](https://www.facebook.com/vj.abishek)
 - 😄 Pronouns: he/him
+
+
+![Abishek's github stats](https://abigo-stats.abigo.vercel.app/api?username=vj-abishek&show_icons=true&theme=onedark)
