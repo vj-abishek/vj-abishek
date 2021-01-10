@@ -1,5 +1,6 @@
 ### Hi there, I'm Abishek 👋
 
+![](https://komarev.com/ghpvc/?username=vj-abishek)
 
 - 🔭 I’m currently working on [relp](https://github.com/vj-abishek/airdrop)
 - 🌱 I’m currently learning React Native and android development
