@@ -9,6 +9,6 @@
 - 😄 Pronouns: he/him
 
 
-![Abishek's github stats](https://abigo-stats.abigo.vercel.app/api?username=vj-abishek&show_icons=true&theme=onedark)
+![Abishek's github stats](https://github-readme-stats.vercel.app/api?username=vj-abishek&show_icons=true&theme=onedark)
 
-![Top Langs](https://abigo-stats.abigo.vercel.app/api/top-langs/?username=vj-abishek&layout=compact&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vj-abishek&layout=compact&theme=onedark)
