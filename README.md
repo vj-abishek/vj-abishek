@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=vj-abishek)
 
-- 🔭 I’m currently working on [relp](https://github.com/vj-abishek/airdrop)
+- 🔭 Frontend developer at [trainn](https://trainn.co/)
 - 🌱 I’m currently learning React Native and android development
 - 💬 Ask me about React and Javascript
 - 📫 How to reach me: [Twitter](https://twitter.com/abishek_py)
